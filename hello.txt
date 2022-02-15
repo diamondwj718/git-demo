@@ -26,6 +26,7 @@ hello diaamond!
 hello diaamond!
 hello diaamond!
 hello diaamond!
-hello diamond!
+hello diamond! hot-fix test
 222222
 hot-fix
+
